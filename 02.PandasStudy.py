@@ -5,7 +5,7 @@ Created on Sun Feb 23 13:39:03 2020
 @author: zhoubo
 """
 
-#%% pandas索引和切片
+#%% pandas Series索引和切片
 import pandas as pd
 
 #对于Series来说：
